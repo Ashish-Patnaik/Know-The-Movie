@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Know-The-Movie/static/css/main.bf3b5ea4.css",
+    "main.js": "/Know-The-Movie/static/js/main.b6dc1cc5.js",
+    "index.html": "/Know-The-Movie/index.html",
+    "static/media/search.svg": "/Know-The-Movie/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.bf3b5ea4.css.map": "/Know-The-Movie/static/css/main.bf3b5ea4.css.map",
+    "main.b6dc1cc5.js.map": "/Know-The-Movie/static/js/main.b6dc1cc5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf3b5ea4.css",
+    "static/js/main.b6dc1cc5.js"
+  ]
+}
